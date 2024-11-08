@@ -4,7 +4,7 @@ Welcome to the **Crypto Live Tracker** project! This application allows users to
 
 ## Live Demo 🌐
 
-Check out the live version of the project [here](https://riyad-x.github.io/crypto-live-tracker/).
+Check out the live version of the project [here](https://riyad899.github.io/crypto-live-tracker/).
 
 ## Features ✨
 
